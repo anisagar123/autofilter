@@ -10,11 +10,11 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: TG_FILTER BOT 𝚟3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/nk_moviezz>𝙽𝙰𝙽𝙳𝙰𝙽_𝚁𝙴𝙸𝙶𝙽𝚂</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴 👉 :<a href=https://t.me/TG_LINKS_CHANNEL>𝙏𝙂_𝘾𝙃𝘼𝙉𝙉𝙀𝙇</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/NANDAN_REIGNS>𝙽𝙰𝙽𝙳𝙰𝙽_𝚁𝙴𝙸𝙶𝙽𝚂</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/TG_SUPPORTER>KUSHAL</a>"""
+- 𝙳𝚎𝚟 1 :<a href=https://t.me/NANDAN_REIGNS>𝙽𝙰𝙽𝙳𝙰𝙽_𝚁𝙴𝙸𝙶𝙽𝚂</a>
+- 𝙳𝚎𝚟 2 :<a href=https://t.me/KUSHALHK>𝙍𝙀𝘼𝙇_𝙃𝙀𝙍𝙊</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
